@@ -1,0 +1,19 @@
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\bin\Debug\ADS2022T.dll
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\bin\Debug\ADS2022T.pdb
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\obj\Debug\ADS2022T.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\obj\Debug\ADS2022T.dll
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\obj\Debug\ADS2022T.pdb
+C:\Users\0040482012031\Downloads\DLL\ADS2022T\bin\Debug\ADS2022T.xml
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.xml
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.pdb
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.xml
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\bin\Debug\ADS2022T.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.csproj.AssemblyReference.cache
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\DLL\ADS2022T\obj\Debug\ADS2022T.pdb

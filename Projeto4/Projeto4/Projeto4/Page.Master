@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="Projeto4.Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- REFERENCIA A FOLHA DE ESTILO CSS -->
+    <link href="css/Projeto.css" rel="stylesheet" />
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+
+    <!-- REF: http://flexslider.woothemes.com/video.html -->
+    <!-- ARQUIVOS JAVASCRIPT E CSS PARA EXIBIR SLIDES -- -->
+    <!-- TEM QUE SER NESSA ORDEM -->
+
+    <link href="JS/flexslider.css" rel="stylesheet" />
+    <script src="JS/jquery-1.7.2.min.js"></script>
+    <script src="JS/flexslider.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="content-wrap">
+            <!-- CABEÇALHO -->
+            <div class="cabecalho">
+
+                <!-- LOGOMARCA -->
+                <div class="logomarca">
+                    <asp:Image ImageUrl="~/Images/marca1.png" ID="Image1" runat="server" />
+                </div>
+
+                <!-- TITULO -->
+                <div class="barra-titulo destaque">
+                    <h2 style="text-align: center">Projeto 4 ADS C#</h2>
+                </div>
+
+                <!-- MENU -->
+                <div class="barra-menu">
+                    <asp:HyperLink ID="Home" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+                    <asp:HyperLink ID="Sobre" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+                    <asp:HyperLink ID="Contato" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink>
+                    <asp:HyperLink ID="Concursos" NavigateUrl="~/Concursos.aspx" runat="server">Concursos</asp:HyperLink>
+                    <asp:HyperLink ID="ProcessoSeletivo" NavigateUrl="~/ProcessoSeletivo.aspx" runat="server">Processo Seletivo</asp:HyperLink>
+                    <asp:HyperLink ID="FaleConoscoMenu" NavigateUrl="~/FaleConosco.aspx" runat="server">Fale Conosco</asp:HyperLink>
+                    <asp:HyperLink ID="LinkExcecoes" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exibir Exceções</asp:HyperLink>
+                    <asp:HyperLink ID="LinkUsuarios" NavigateUrl="~/Admin/Usuarios.aspx" runat="server">Usuarios</asp:HyperLink>
+                    <asp:HyperLink ID="LinkLogin" NavigateUrl="~/Login.aspx" runat="server">Login</asp:HyperLink>
+                    <asp:HyperLink ID="LinkLogout" NavigateUrl="~/Logout.aspx" runat="server">Sair</asp:HyperLink>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- conteudo -->
+        <div class="conteudo content-wrap">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- RODAPÉ -->
+        <div class="rodape">
+            <div class="row-center">
+                <div class="margin-top-30">
+                    <h3>Mapa do Site</h3>
+                </div>
+            </div>
+            <div class="row-center">
+                <div class="col-1 margin-top-30 link">
+                    <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink3" NavigateUrl="~/Contato.aspx" runat="server">Contato</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink4" NavigateUrl="~/Concursos.aspx" runat="server">Concursos</asp:HyperLink><br />
+                </div>
+                <div class="col-1 margin-top-30 link">
+                    <asp:HyperLink ID="HyperLink6" NavigateUrl="~/ProcessoSeletivo.aspx" runat="server">Processo Seletivo</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink7" NavigateUrl="~/ProcessoSeletivo.aspx" runat="server">Fale Conosco</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink5" NavigateUrl="~/ProcessoSeletivo.aspx" runat="server">Exibir Exceções</asp:HyperLink><br />
+                    <asp:HyperLink ID="HyperLink8" NavigateUrl="~/ProcessoSeletivo.aspx" runat="server">Em Construção</asp:HyperLink><br />
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

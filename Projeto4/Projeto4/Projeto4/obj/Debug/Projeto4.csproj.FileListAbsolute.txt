@@ -1,0 +1,469 @@
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482012031\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Projeto4.pdb
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\Projeto4.dll.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\Projeto4.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\Projeto4.pdb
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csc.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\csi.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\Wagner\Desktop\C#\Projeto4\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\Projeto4.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482012031\Documents\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\Projeto4.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\ADS2022T.dll
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\ADS2022T.pdb
+C:\Users\0040482012031\Downloads\Projeto4 - certo\Projeto4\bin\ADS2022T.xml
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.pdb
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.xml
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482012031\Downloads\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\ADS2022T.xml
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\AppDatabase.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\MySql.Data.dll
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\AppDatabase.pdb
+C:\Users\0040482012031\Documents\Projeto4 Atualizado\Projeto4 - certo\Projeto4\bin\AppDatabase.xml
+D:\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll.config
+D:\Projeto4\Projeto4\Projeto4\bin\Projeto4.dll
+D:\Projeto4\Projeto4\Projeto4\bin\Projeto4.pdb
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csc.rsp
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\csi.rsp
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+D:\Projeto4\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeto4\Projeto4\Projeto4\bin\ADS2022T.dll
+D:\Projeto4\Projeto4\Projeto4\bin\AppDatabase.dll
+D:\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeto4\Projeto4\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Projeto4\Projeto4\Projeto4\bin\MySql.Data.dll
+D:\Projeto4\Projeto4\Projeto4\bin\ADS2022T.pdb
+D:\Projeto4\Projeto4\Projeto4\bin\ADS2022T.xml
+D:\Projeto4\Projeto4\Projeto4\bin\AppDatabase.pdb
+D:\Projeto4\Projeto4\Projeto4\bin\AppDatabase.xml
+D:\Projeto4\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+D:\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+D:\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+D:\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+D:\Projeto4\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
